@@ -17,7 +17,7 @@ To run the project, follow these steps:
 
 ### Clone the repository
 
-git clone https://github.com/aar0njv/Blogging-Platform.git
+git clone https://github.com/aar0njv/Blogging_Platform.git
 cd Blogging-Platform
 
 ### Install dependencies
