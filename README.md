@@ -1,6 +1,5 @@
 # Blogging Platform
 
-This is a terminal-based blogging platform written in Python. It allows users to register, log in, create, modify, and delete their own blog posts. The application uses bcrypt for secure password encryption and stores user data and blog posts in memory using Python dictionaries.
 
 ## Features
 
